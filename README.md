@@ -5,5 +5,5 @@ Object Oriented Arkanoid.
 University GUI is applied.
 Observer design pattern is applied.
 
-*NOTE*
+***NOTE***
 The files are unordered and put all-together since i was a lone-wolf at the time.
